@@ -3,7 +3,7 @@
 ## description:
 ExtraCummyBot is a bot that will comment submission selftext for mobile users copying it
 
-This kind of bot already exist but ExtraCummyBot is a improvement.
+This kind of bot already exist but ExtraCummyBot is an improvement.
 
 ## features:
 - Repost detection using pushshift api
